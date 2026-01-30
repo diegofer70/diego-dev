@@ -158,9 +158,8 @@ main {
 }
 
 .hero h1 {
-  margin: 1.5rem 0 0.75rem;
-  font-size: clamp(2.4rem, 3.2vw + 1.4rem, 3.4rem);
-  letter-spacing: -0.03em;
+  font-size: 5rem;
+  margin-bottom: 10px;
 }
 
 .hero-subtitle {
@@ -283,10 +282,9 @@ main {
 }
 
 .avatar-placeholder {
-  width: 74px;
-  height: 74px;
+  width: 160px;
+  height: 160px;
   display: flex;
-  background-color: #0ea5e9;
   align-items: center;
   justify-content: center;
   font-size: 0.78rem;
